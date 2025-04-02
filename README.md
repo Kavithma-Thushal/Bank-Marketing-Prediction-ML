@@ -1,7 +1,6 @@
-# 💰 Bank Marketing Prediction 💰
+# 💰 Bank Marketing Prediction - Machine Learning 💰
 
-This project focuses on building machine learning models using Support Vector Machine (SVM) and Logistic Regression (
-LR), and deploying them on AWS ECS using a CI/CD pipeline to predict whether a client will subscribe to a term deposit
+This project focuses on building machine learning models using Support Vector Machine (SVM) and Logistic Regression (LR)
 as part of the course work for GDSE66 at IJSE.
 
 ## 🛠️ Tech Stack
@@ -12,26 +11,13 @@ as part of the course work for GDSE66 at IJSE.
 ✅ Scikit-learn  
 ✅ Seaborn  
 ✅ Matplotlib  
-✅ Jupyter Notebook  
-✅ ECR  
-✅ ECS
+✅ Jupyter Notebook
 
 ## 🚀 Key Features
 
 ✅ Understanding the basics of machine learning.  
 ✅ Preprocessing data (handling missing values, handling outliers, and feature scaling).  
-✅ Create models using Support Vector Machine (SVM) and Logistic Regression (LR).  
-✅ Evaluate model performance with classification metrics.
-
-## 📸 Screenshots
-
-### Model
-
-<img src="ss/model.png">
-
-### Result
-
-<img src="ss/result.png">
+✅ Create models using Support Vector Machine (SVM) and Logistic Regression (LR).
 
 ## 📝 Version
 
